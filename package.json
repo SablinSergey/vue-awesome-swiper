@@ -46,14 +46,14 @@
     "release": ". ./scripts/release.sh"
   },
   "peerDependencies": {
-    "swiper": "git://github.com/SablinSergey/swiper.git#swiper",
+    "swiper": "git://github.com/SablinSergey/swiper.git#swiper-build",
     "vue": "2.x"
   },
   "devDependencies": {
     "@surmon-china/abc-factory": "^0.3.3",
     "@types/swiper": "^5.2.1",
     "cross-env": "^6.0.3",
-    "swiper": "git://github.com/SablinSergey/swiper.git#swiper",
+    "swiper": "git://github.com/SablinSergey/swiper.git#swiper-build",
     "typescript": "^3.7.5",
     "vue": "^2.6.10"
   },
